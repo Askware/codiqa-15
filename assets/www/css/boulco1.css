@@ -1,0 +1,30 @@
+.headertitleclass {text-align: center; text-size: 3px; text-decoration: none; font-style: normal;
+    }
+    .npclass {
+    color:#fff;
+    background-color:#fff;
+    background-image:url(https://s3.amazonaws.com/assets.codiqa.com/BBGSc1FQ6mJctDk3Jc5e_bkg-iphone-portrait.png);
+    background-repeat:no-repeat; background-position: fixed;background-attachment: fixed;
+    background-size: cover;
+    }
+    .separator {color: #f00}
+    .ui-icon-home {
+        background: url("https://s3.amazonaws.com/assets.codiqa.com/r9btWdakSpub4mtXmex0_icon_profile.png") no-repeat 1px 2px;
+    }.ui-icon-edit {
+        background: url("http://codiqa.com/static/images/site/home/heart.png") no-repeat 1px 2px;
+    }.ui-icon-delete {
+        background: url(" https://s3.amazonaws.com/assets.codiqa.com/r9btWdakSpub4mtXmex0_icon_profile.png") no-repeat 1px 2px;
+    }
+    .ui-panel-content-wrap{
+    
+        background-image:url(https://s3.amazonaws.com/assets.codiqa.com/BBGSc1FQ6mJctDk3Jc5e_bkg-iphone-portrait.png);
+    
+        background-repeat:no-repeat;
+    
+        background-size: cover;
+        
+        
+    
+    }
+    .claim {text-align: center; text-size: 3px; text-decoration: none; font-style: italic ;
+    }
