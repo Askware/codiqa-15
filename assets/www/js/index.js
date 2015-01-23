@@ -45,6 +45,8 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
+        navigator.notification.alert("Starting Puship");
+
         
 	Puship.PushipAppId = "opOG9OULTQDF07y"; // Replace this with your Puship Application ID
 	
