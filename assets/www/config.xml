@@ -54,5 +54,8 @@
     <gap:plugin name="com.phonegap.plugins.pushplugin" /> <!-- required -->
     <access origin="http://127.0.0.1*" />
     <access origin="http://puship.cloudapp.net" />
+    <access origin="http://flickr.com" subdomains="true" />
+    <access origin="http://youtube.com" subdomains="true" />
+    <access origin="http://boulangerie-co.blogspot.fr" subdomains="true" />
     <content src="index.html" />
 </widget>
